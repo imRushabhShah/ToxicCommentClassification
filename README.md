@@ -231,15 +231,15 @@ Comments can be associated with multiple classes at once, which frames the task 
 
   ### 8.  **Bidirectional LSTM model using Glove word vector and character encodings**
 
-  Train on 111699 samples, validate on 47872 samples
+Train on 111699 samples, validate on 47872 samples
 
-  Epoch 1/2
+Epoch 1/2
 
-  111699/111699 [==============================] - 571s 5ms/step - loss: 0.0603 - acc: 0.9790 - val\_loss: 0.0489 - val\_acc: 0.9822
+111699/111699 [==============================] - 571s 5ms/step - loss: 0.0603 - acc: 0.9790 - val\_loss: 0.0489 - val\_acc: 0.9822
 
-  Epoch 2/2
+Epoch 2/2
 
-  111699/111699 [==============================] - 543s 5ms/step - loss: 0.0435 - acc: 0.9834 - val\_loss: 0.0456 - val\_acc: 0.9829
+111699/111699 [==============================] - 543s 5ms/step - loss: 0.0435 - acc: 0.9834 - val\_loss: 0.0456 - val\_acc: 0.9829
 
 
  
